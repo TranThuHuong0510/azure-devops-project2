@@ -1,4 +1,4 @@
-from hello import add, subtract
+from hello import toyou, add, subtract
 
 
 def setup_function(function):
