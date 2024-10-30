@@ -7,19 +7,22 @@ Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
 * A link to a spreadsheet: https://docs.google.com/spreadsheets/d/1I132F0j7iaG-qobK8dAlahcKzY2KG57JmJ3UAfut7n8/edit?usp=sharing
 
 ## Instructions
+* Architectural Diagram
+  ![diagram](https://github.com/user-attachments/assets/50fdc747-c71b-41f6-baad-7ef7b5ed1cf1)
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
 
 * Project cloned into Azure Cloud Shell
+![image](https://github.com/user-attachments/assets/acea23b0-127c-4aa1-84bb-fd024429d463)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![image](https://github.com/user-attachments/assets/d5396bfb-3d17-4da4-81a3-8b5bb5c33d4d)
 
 * Output of a test run
+![image](https://github.com/user-attachments/assets/80aad8e7-6016-4d24-9907-3be9b538bf77)
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
