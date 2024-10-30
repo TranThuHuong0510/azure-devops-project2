@@ -1,12 +1,10 @@
 # Overview
+Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
 
-<TODO: complete this with an overview of your project>
 
 ## Project Plan
-<TODO: Project Plan
-
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* Trello board: https://trello.com/b/vGzvcnls/q4-2024-huongttt13-udacity-devopsproject-2
+* A link to a spreadsheet: https://docs.google.com/spreadsheets/d/1I132F0j7iaG-qobK8dAlahcKzY2KG57JmJ3UAfut7n8/edit?usp=sharing
 
 ## Instructions
 
