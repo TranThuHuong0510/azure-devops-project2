@@ -13,7 +13,7 @@ variables:
   webAppName: huongttt13-devops-project2
   projectRoot: $(System.DefaultWorkingDirectory)
   azureServiceConnectionId: 'huongttt13-service-connection-id'
-  environmentName: 'Flask'
+  environmentName: 'Huong-Azdevops-P2'
 
 stages:
 - stage: Build
@@ -55,7 +55,7 @@ stages:
       artifact: drop
 
 - stage: Deploy
-  displayName: Deploy Python Flask Web App
+  displayName: Deploy Web App
   dependsOn: Build
   condition: succeeded()
   jobs:
@@ -72,3 +72,4 @@ stages:
               azureSubscription: $(azureServiceConnectionId)
               appName: $(webAppName)
               package: $(Pipeline.Workspace)/drop/$(Build.BuildId).zip
+              appType: webAppLinux
