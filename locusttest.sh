@@ -1,0 +1,1 @@
+locust -f locustpage.py --host https://huongttt13-devops-project2.azurewebsites.net
