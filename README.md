@@ -16,8 +16,29 @@ Action Status bar
   ![diagram](https://github.com/user-attachments/assets/50fdc747-c71b-41f6-baad-7ef7b5ed1cf1)
 
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
+1. Clone this repository in Cloud Shell
+   - If use SSH, you need to add SSH key to Github
+2. Create the Python Virtual Environment
+   python3 -m venv ~/.myrepo
+  source ~/.myrepo/bin/activate
+3. Run make all and make sure it is successfully (like my screenshot)
+4. Deploy webapp by execute ./commands.sh
+   Test predict:
+   cat make_prediction.sh
+  chmod +x make_predict_azure_app.sh
+  ./make_predict_azure_app.sh
+In a new Azure Cloud Shell terminal run the following command az webapp log tail to view the current logs of our web application
+5. Create project in Devops
+ - Create project
+ - Add Service Connections
+ - Create an Agent Pool
+ - Create an Agent (VM)
+ - Configure the Agent (VM) - Install Agent Services - Make sure status is Running as my screenshot in Images
+ - Create a Pipeline with gihub repository with azure-pipelines.yml6.
+ - Azure Pipelines will now run for the first time and it will update the deployed project application
+6. Start locust in your local environment by locusttest.sh
 * Project running on Azure App Service
 ![image](https://github.com/user-attachments/assets/0ccbb556-31ee-4144-862a-95461421c71e)
 
@@ -52,7 +73,10 @@ Port: 443
 
 * Output of streamed log files from deployed application
 
-> 
+>
+> Locust test
+![image](https://github.com/user-attachments/assets/a37bd98a-47a0-494e-bc2e-1ab89e00b176)
+
 
 ## Enhancements
 
