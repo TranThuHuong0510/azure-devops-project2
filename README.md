@@ -1,6 +1,6 @@
 # Overview
 Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
-
+[![Build Status](https://dev.azure.com/huongttt13/HuongTTT13-Project2/_apis/build/status%2FTranThuHuong0510.azure-devops-project2?branchName=master)](https://dev.azure.com/huongttt13/HuongTTT13-Project2/_build/latest?definitionId=3&branchName=master)
 
 ## Project Plan
 * Trello board: https://trello.com/b/vGzvcnls/q4-2024-huongttt13-udacity-devopsproject-2
