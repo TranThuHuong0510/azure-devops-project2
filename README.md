@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ab32129-7c54-41a9-9e6a-8c44fbd9e9e8)# Overview
+# Overview
 Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
 
 
