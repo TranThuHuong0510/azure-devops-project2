@@ -75,18 +75,20 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
+![image](https://github.com/user-attachments/assets/1e2ca055-81c4-4ef3-b477-eff2f9bcd9d6)
 
 >
 > Locust test
 ![image](https://github.com/user-attachments/assets/a37bd98a-47a0-494e-bc2e-1ab89e00b176)
+![image](https://github.com/user-attachments/assets/50127b3d-d2b9-4d2d-9e27-c750e2c53c33)
 
 
 ## Enhancements
 
 <TODO: A short description of how to improve the project in the future>
 
-UI design
-Pipeline improvement for dev, staging, production
+- UI design
+- Pipeline improvement for dev, staging, production
 
 ## Demo 
 
