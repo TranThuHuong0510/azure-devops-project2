@@ -1,4 +1,4 @@
-# Overview
+![image](https://github.com/user-attachments/assets/9ab32129-7c54-41a9-9e6a-8c44fbd9e9e8)# Overview
 Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
 
 
@@ -53,7 +53,10 @@ In a new Azure Cloud Shell terminal run the following command az webapp log tail
 
 
 * Output of a test run
+![image](https://github.com/user-attachments/assets/35d206da-e692-4418-a37e-1bc0d56eaa43)
+
 ![image](https://github.com/user-attachments/assets/80aad8e7-6016-4d24-9907-3be9b538bf77)
+
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
   ![image](https://github.com/user-attachments/assets/696bd3a4-ac54-41fe-a158-5627810e8182)
