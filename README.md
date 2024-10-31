@@ -1,5 +1,5 @@
 # Overview
-Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
+Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course 
 
 
 Azure Pipeline status bar
