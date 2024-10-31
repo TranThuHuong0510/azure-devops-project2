@@ -46,7 +46,10 @@ In a new Azure Cloud Shell terminal run the following command az webapp log tail
 ![image](https://github.com/user-attachments/assets/acea23b0-127c-4aa1-84bb-fd024429d463)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-![image](https://github.com/user-attachments/assets/d5396bfb-3d17-4da4-81a3-8b5bb5c33d4d)
+![image](https://github.com/user-attachments/assets/bc57d9c7-7e4f-48de-81fd-dba7d1d09942)
+![image](https://github.com/user-attachments/assets/7ce93ebc-ec6b-4bf2-bc92-be2213cd00b6)
+
+
 
 * Output of a test run
 ![image](https://github.com/user-attachments/assets/80aad8e7-6016-4d24-9907-3be9b538bf77)
